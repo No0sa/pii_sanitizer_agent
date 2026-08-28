@@ -1,0 +1,23 @@
+[
+  {
+    "user_id": "USR-8801",
+    "account_status": "ACTIVE",
+    "email": "ahmed.ali@techcorp.com",
+    "phone": "+201012345678",
+    "internal_notes": "تواصل العليم أحمد علي من هاتف 01012345678 لإعادة ضبط كلمة المرور. رقم بطاقته الائتمانية للتحقق كان 4111-2222-3333-4444."
+  },
+  {
+    "user_id": "USR-8802",
+    "account_status": "PENDING",
+    "email": "sara.hassan@startup.io",
+    "phone": "+971509876543",
+    "internal_notes": "طلب تغيير البريد الإلكتروني الخاص بـ سارة حسن إلى sara.new@gmail.com والتوثيق تم عبر جواز السفر رقم A9876543."
+  },
+  {
+    "user_id": "USR-8803",
+    "account_status": "SUSPENDED",
+    "email": "m.omar@service.net",
+    "phone": "+249912345678",
+    "internal_notes": "تم توقيف الحساب بسبب محاولات دخول مشبوهة من العنوان 192.168.1.1."
+  }
+]
